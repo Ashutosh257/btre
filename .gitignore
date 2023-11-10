@@ -1,0 +1,13 @@
+
+.env
+.venv
+__pycache__
+*/migrations
+
+btre/static/
+static
+media
+
+db.sqlite3
+Pipfile
+Pipfile.lock
